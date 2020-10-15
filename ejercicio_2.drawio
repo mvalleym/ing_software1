@@ -1,1 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T18:41:30.052Z" agent="5.0 (Windows)" version="13.8.0" etag="23isQmeWX9qU2C9Gy0Yw" type="github"><diagram id="89HvMehqgZgHjnY4MZOB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-15T19:14:04.394Z" agent="5.0 (Windows)" etag="vyPM6OkgawcqOTUxVClX" version="13.8.0" type="github">
+  <diagram id="89HvMehqgZgHjnY4MZOB" name="Page-1">
+    <mxGraphModel dx="2272" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FC0000;" edge="1" parent="1" source="vkqIZw8P7iuXi2GLpDRR-1" target="vkqIZw8P7iuXi2GLpDRR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="285" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FC0000;" edge="1" parent="1" source="vkqIZw8P7iuXi2GLpDRR-3" target="vkqIZw8P7iuXi2GLpDRR-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FC0000;" edge="1" parent="1" source="vkqIZw8P7iuXi2GLpDRR-3" target="vkqIZw8P7iuXi2GLpDRR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FC0000;exitX=1;exitY=0.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vkqIZw8P7iuXi2GLpDRR-3" target="vkqIZw8P7iuXi2GLpDRR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FC0000;" edge="1" parent="1" source="vkqIZw8P7iuXi2GLpDRR-3" target="vkqIZw8P7iuXi2GLpDRR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-3" value="&lt;div&gt;Validando moneda&lt;/div&gt;&lt;div&gt;y monto&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FC0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vkqIZw8P7iuXi2GLpDRR-7" target="vkqIZw8P7iuXi2GLpDRR-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FC0000;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vkqIZw8P7iuXi2GLpDRR-7" target="vkqIZw8P7iuXi2GLpDRR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FC0000;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vkqIZw8P7iuXi2GLpDRR-7" target="vkqIZw8P7iuXi2GLpDRR-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FC0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vkqIZw8P7iuXi2GLpDRR-7" target="vkqIZw8P7iuXi2GLpDRR-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-7" value="&lt;div&gt;Esperando&lt;/div&gt;&lt;div&gt;selección&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.908;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FC0000;exitX=0;exitY=0.908;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vkqIZw8P7iuXi2GLpDRR-9" target="vkqIZw8P7iuXi2GLpDRR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FC0000;" edge="1" parent="1" source="vkqIZw8P7iuXi2GLpDRR-9" target="vkqIZw8P7iuXi2GLpDRR-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-9" value="Esperando moneda" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-13" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="255" y="520" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-14" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="315" y="520" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-15" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="405" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-16" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="725" y="405" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-17" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="725" y="340" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-33" value="Se ingresa una moneda" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-34" value="&lt;div&gt;La moneda se considera válida [monto total &amp;lt; precio] /&lt;/div&gt;&lt;div&gt;actualizar monto&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-35" value="&lt;div&gt;La moneda se considera inválida /&lt;/div&gt;&lt;div&gt;devolver moneda&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="200" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-37" value="Se introduce una moneda" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-38" value="&lt;div&gt;Se presiona el botón &amp;lt;cancelar&amp;gt; /&lt;/div&gt;&lt;div&gt;poner el monto en cero, devolver monedas&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="200" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-39" value="&lt;div&gt;Se presiona el botón &amp;lt;cancelar&amp;gt; /&lt;/div&gt;&lt;div&gt;poner el monto en cero, devolver monedas&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="290" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-40" value="&lt;div&gt;Se presiona el botón &amp;lt;cancelar&amp;gt; /&lt;/div&gt;&lt;div&gt;poner el monto en cero, devolver monedas&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="400" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-41" value="&lt;div align=&quot;right&quot;&gt;La moneda se considera válida [monto total &amp;lt; precio] /&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;actualizar monto&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="320" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-43" value="&lt;div align=&quot;right&quot;&gt;Se realiza una selección [monto total = precio, producto en stock] /&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;entregar producto&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="460" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-45" value="&lt;div align=&quot;left&quot;&gt;Se realiza una selección [monto total &amp;gt; precio, producto en stock] /&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;entregar producto, entregar vuelto&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkqIZw8P7iuXi2GLpDRR-46" value="&lt;div align=&quot;left&quot;&gt;Se realiza una selección [producto fuera de stock] /&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;comunicar falta de producto, devolver monto&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="400" width="290" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

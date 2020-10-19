@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T11:49:28.932Z" agent="5.0 (Windows)" version="13.8.0" etag="lBvnlZtj5IVw0dhZM1iY" type="github"><diagram id="YNvZwJrBOYFxlkn6kkAn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-19T12:00:52.051Z" agent="5.0 (Windows)" etag="vE0p_WsRIreEMuRcgD1W" version="13.8.0" type="github">
+  <diagram id="YNvZwJrBOYFxlkn6kkAn" name="Page-1">
+    <mxGraphModel dx="731" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6laZq1fDUzcg9IqnlFVi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6laZq1fDUzcg9IqnlFVi-1" target="6laZq1fDUzcg9IqnlFVi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6laZq1fDUzcg9IqnlFVi-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="385" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6laZq1fDUzcg9IqnlFVi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6laZq1fDUzcg9IqnlFVi-3" target="6laZq1fDUzcg9IqnlFVi-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6laZq1fDUzcg9IqnlFVi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6laZq1fDUzcg9IqnlFVi-3" target="6laZq1fDUzcg9IqnlFVi-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6laZq1fDUzcg9IqnlFVi-3" value="Vigilando" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6laZq1fDUzcg9IqnlFVi-6" value="Huyendo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6laZq1fDUzcg9IqnlFVi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6laZq1fDUzcg9IqnlFVi-7" target="6laZq1fDUzcg9IqnlFVi-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6laZq1fDUzcg9IqnlFVi-7" value="Huyendo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6laZq1fDUzcg9IqnlFVi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6laZq1fDUzcg9IqnlFVi-8" target="6laZq1fDUzcg9IqnlFVi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6laZq1fDUzcg9IqnlFVi-8" value="Combatiendo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="580" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6laZq1fDUzcg9IqnlFVi-13" value="&lt;div&gt;Se creó el guardia/&lt;/div&gt;&lt;div&gt;establecer energía al 100%&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="100" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6laZq1fDUzcg9IqnlFVi-14" value="&lt;div&gt;Se detectó un enemigo [enemigo fuera del castillo]/&lt;/div&gt;&lt;div&gt;sacar arco y flechas&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="220" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6laZq1fDUzcg9IqnlFVi-15" value="&lt;div align=&quot;right&quot;&gt;Se detectó un enemigo [enemigo dentro del castillo]/&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;sacar espada&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6laZq1fDUzcg9IqnlFVi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="6laZq1fDUzcg9IqnlFVi-8" target="6laZq1fDUzcg9IqnlFVi-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="315" />
+              <mxPoint x="760" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6laZq1fDUzcg9IqnlFVi-17" value="&lt;div&gt;Se recibió un golpe [energía mayor a 30%]/&lt;/div&gt;&lt;div&gt;sacar arco y flechas&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="310" width="320" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

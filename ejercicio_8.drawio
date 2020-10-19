@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T21:02:49.053Z" agent="5.0 (Windows)" etag="oN6mBo82DfAU2yJ8UY8c" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T22:29:49.561Z" agent="5.0 (Windows)" etag="g2jMg5j-upWsntOC_-Mw" version="13.8.0" type="github">
   <diagram id="p_yJs_PU4BblGnHtxme5" name="Page-1">
-    <mxGraphModel dx="731" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1581" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,10 +27,11 @@
         <mxCell id="P3BfVfnYGwRnjwojywNf-5" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="385" y="100" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P3BfVfnYGwRnjwojywNf-20" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="P3BfVfnYGwRnjwojywNf-10" target="P3BfVfnYGwRnjwojywNf-14">
+        <mxCell id="P3BfVfnYGwRnjwojywNf-20" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;entryX=-0.003;entryY=0.17;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P3BfVfnYGwRnjwojywNf-10" target="P3BfVfnYGwRnjwojywNf-14">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="120" y="710" />
+              <mxPoint x="120" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -56,14 +57,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P3BfVfnYGwRnjwojywNf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="P3BfVfnYGwRnjwojywNf-13" target="P3BfVfnYGwRnjwojywNf-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="P3BfVfnYGwRnjwojywNf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P3BfVfnYGwRnjwojywNf-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="590" />
+              <mxPoint x="410" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="P3BfVfnYGwRnjwojywNf-13" value="Buscando dirección" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="610" y="560" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P3BfVfnYGwRnjwojywNf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P3BfVfnYGwRnjwojywNf-14" target="P3BfVfnYGwRnjwojywNf-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P3BfVfnYGwRnjwojywNf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="P3BfVfnYGwRnjwojywNf-14" target="P3BfVfnYGwRnjwojywNf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="710" />
+              <mxPoint x="30" y="215" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="P3BfVfnYGwRnjwojywNf-14" value="&lt;div&gt;Esperando inicialización&lt;/div&gt;&lt;div&gt;por parte del usuario&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="330" y="680" width="140" height="60" as="geometry" />
@@ -73,18 +88,18 @@
         </mxCell>
         <mxCell id="P3BfVfnYGwRnjwojywNf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P3BfVfnYGwRnjwojywNf-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="970" as="targetPoint" />
+            <mxPoint x="400" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P3BfVfnYGwRnjwojywNf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="P3BfVfnYGwRnjwojywNf-15" target="P3BfVfnYGwRnjwojywNf-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="265" y="845" />
+              <mxPoint x="85" y="905" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="P3BfVfnYGwRnjwojywNf-15" value="Mostrando ruta" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="330" y="800" width="140" height="60" as="geometry" />
+          <mxGeometry x="330" y="860" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P3BfVfnYGwRnjwojywNf-26" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="P3BfVfnYGwRnjwojywNf-23" target="P3BfVfnYGwRnjwojywNf-15">
           <mxGeometry relative="1" as="geometry" />
@@ -92,29 +107,29 @@
         <mxCell id="P3BfVfnYGwRnjwojywNf-27" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="P3BfVfnYGwRnjwojywNf-23" target="P3BfVfnYGwRnjwojywNf-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="790" y="910" />
+              <mxPoint x="790" y="970" />
               <mxPoint x="790" y="215" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="P3BfVfnYGwRnjwojywNf-23" value="&lt;div&gt;Esperando reconexión&lt;/div&gt;con la red satelital" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="610" y="880" width="140" height="60" as="geometry" />
+          <mxGeometry x="610" y="940" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P3BfVfnYGwRnjwojywNf-28" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="385" y="970" width="30" height="30" as="geometry" />
+          <mxGeometry x="385" y="1030" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P3BfVfnYGwRnjwojywNf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="P3BfVfnYGwRnjwojywNf-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="365" y="800" as="sourcePoint" />
+            <mxPoint x="365" y="860" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="365" y="770" />
-              <mxPoint x="300" y="770" />
-              <mxPoint x="300" y="815" />
+              <mxPoint x="365" y="830" />
+              <mxPoint x="300" y="830" />
+              <mxPoint x="300" y="875" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="P3BfVfnYGwRnjwojywNf-31" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="250" y="970" width="30" height="30" as="geometry" />
+          <mxGeometry x="70" y="1040" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P3BfVfnYGwRnjwojywNf-33" value="&lt;div align=&quot;left&quot;&gt;Se selecciona la opción &quot;ir a destino&quot;/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;mostrar pantalla inicial de búsqueda&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="415" y="150" width="235" height="30" as="geometry" />
@@ -128,11 +143,41 @@
         <mxCell id="P3BfVfnYGwRnjwojywNf-36" value="&lt;div align=&quot;right&quot;&gt;Se selecciona la opción &quot;confirmar&quot;/&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;buscar la dirección&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="510" width="235" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P3BfVfnYGwRnjwojywNf-37" value="&lt;div align=&quot;left&quot;&gt;Se encuentra la dirección/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;actualizar lista de últimas 5 direcciones buscadas&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="P3BfVfnYGwRnjwojywNf-37" value="&lt;div align=&quot;left&quot;&gt;Se encuentra la dirección/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;actualizar lista de últimas 5 direcciones buscadas,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;mostrar mapa de ruta&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="710" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P3BfVfnYGwRnjwojywNf-40" value="&lt;div align=&quot;left&quot;&gt;No se encuentra la dirección/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;mostrar mensaje de error&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="590" width="235" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P3BfVfnYGwRnjwojywNf-41" value="&lt;div align=&quot;left&quot;&gt;Se selecciona la opción &quot;ir&quot;/&lt;/div&gt;&lt;div&gt;iniciar navegación GPS, mostrar datos de ubicación, velocidad, distancia y tiempo restantes&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="780" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P3BfVfnYGwRnjwojywNf-42" value="&lt;div align=&quot;left&quot;&gt;Se selecciona la opción &quot;cancelar&quot;/&lt;/div&gt;volver a pantalla inicial de búsqueda" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="710" width="220" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="P3BfVfnYGwRnjwojywNf-44" value="&lt;div align=&quot;left&quot;&gt;Se selecciona la opción &quot;últimos encontrados&quot;/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;mostrar lista de últimas 5 direcciones encontradas&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="270" width="290" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="P3BfVfnYGwRnjwojywNf-45" value="&lt;div align=&quot;left&quot;&gt;Se selecciona una opción de la lista/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;mostrar mapa de ruta&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="405" width="290" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="P3BfVfnYGwRnjwojywNf-46" value="&lt;div align=&quot;right&quot;&gt;Pasó un segundo desde la última actualización/&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;mostrar datos de ubicación, velocidad,&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;distancia y tiempo restantes&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="830" width="285" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P3BfVfnYGwRnjwojywNf-47" value="&lt;div align=&quot;left&quot;&gt;Se pierde la señal de GPS/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;indicar problema, esperar reconexión&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="850" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P3BfVfnYGwRnjwojywNf-48" value="&lt;div align=&quot;left&quot;&gt;Pasaron 3 minutos [no se recuperó la señal]/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;retornar a pantalla inicial de búsqueda&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="900" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P3BfVfnYGwRnjwojywNf-49" value="&lt;div align=&quot;left&quot;&gt;Se recupera la señal de GPS/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;actualizar datos de velocidad,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;distancia y tiempo restantes&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="970" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P3BfVfnYGwRnjwojywNf-50" value="&lt;div align=&quot;right&quot;&gt;Se arriba a destino/&lt;/div&gt;mostrar mensaje de destino alcanzado" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="950" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P3BfVfnYGwRnjwojywNf-51" value="&lt;div align=&quot;right&quot;&gt;Se presiona el botón &amp;lt;detener navegación&amp;gt;/&lt;/div&gt;retornar a pantalla inicial" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="950" width="270" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

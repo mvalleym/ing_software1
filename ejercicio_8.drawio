@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T11:40:45.899Z" agent="5.0 (Windows)" etag="9ClDBGiRr92T0xvkDDBi" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T11:53:43.483Z" agent="5.0 (Windows)" etag="xpSANkdIK74Zus99Fqbh" version="13.8.1" type="github">
   <diagram id="p_yJs_PU4BblGnHtxme5" name="Page-1">
     <mxGraphModel dx="2272" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
           <mxGeometry x="480" y="710" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P3BfVfnYGwRnjwojywNf-40" value="&lt;div align=&quot;left&quot;&gt;No se encuentra la dirección/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;mostrar mensaje de error&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="590" width="235" height="40" as="geometry" />
+          <mxGeometry x="410" y="590" width="235" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P3BfVfnYGwRnjwojywNf-41" value="&lt;div align=&quot;left&quot;&gt;Se selecciona la opción &quot;ir&quot;/&lt;/div&gt;&lt;div&gt;iniciar navegación GPS, mostrar datos de ubicación, velocidad, distancia y tiempo restantes&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410" y="780" width="290" height="40" as="geometry" />

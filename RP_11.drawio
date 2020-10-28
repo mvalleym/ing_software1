@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T13:41:57.621Z" agent="5.0 (Windows)" etag="CjL2r_1agI3jpWdyatcH" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T11:41:19.805Z" agent="5.0 (Windows)" etag="FsOno03dbvl5oT1eVziW" version="13.8.5" type="github">
   <diagram id="g_HcBNm5QV51gmT7OhGk" name="Page-1">
-    <mxGraphModel dx="2370" dy="1272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="681" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -563,54 +563,54 @@
           <mxGeometry x="1507" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V5hoFHGnkRwSR9a1hQXE-215" value="&lt;div align=&quot;left&quot;&gt;Caja de sorrentinos despachada&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1517" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="1507" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V5hoFHGnkRwSR9a1hQXE-216" value="&lt;div&gt;Masa canelones&lt;/div&gt;&lt;div&gt;esperando estirado&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="137" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4axXDym9NoDT7p6fsjPK-1" value="&lt;div&gt;Masa sorrentinos&lt;/div&gt;&lt;div&gt;pasa a estirado&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="4axXDym9NoDT7p6fsjPK-1" value="&lt;div&gt;Masa sorrentinos&lt;/div&gt;&lt;div&gt;pasa a estirado&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="247" y="160" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4axXDym9NoDT7p6fsjPK-3" value="&lt;div&gt;Masa canelones&lt;/div&gt;&lt;div&gt;pasa a estirado&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="4axXDym9NoDT7p6fsjPK-3" value="&lt;div&gt;Masa canelones&lt;/div&gt;&lt;div&gt;pasa a estirado&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="247" y="440" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4axXDym9NoDT7p6fsjPK-4" value="&lt;div&gt;Masa sorrentinos&lt;/div&gt;&lt;div&gt;esperando estirado&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="4axXDym9NoDT7p6fsjPK-4" value="&lt;div&gt;Masa sorrentinos&lt;/div&gt;&lt;div&gt;esperando estirado&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="137.42000000000002" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4axXDym9NoDT7p6fsjPK-5" value="&lt;div&gt;Masa canelones&lt;/div&gt;&lt;div&gt;esperando corte&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="4axXDym9NoDT7p6fsjPK-5" value="&lt;div&gt;Masa canelones&lt;/div&gt;&lt;div&gt;esperando corte&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="537" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4axXDym9NoDT7p6fsjPK-6" value="&lt;div&gt;Se efectúa corte&lt;br&gt;&lt;/div&gt;&lt;div&gt;masa sorrentinos&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="4axXDym9NoDT7p6fsjPK-6" value="&lt;div&gt;Se efectúa corte&lt;br&gt;&lt;/div&gt;&lt;div&gt;masa sorrentinos&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="637" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4axXDym9NoDT7p6fsjPK-7" value="&lt;div&gt;Termina estirado&lt;br&gt;&lt;/div&gt;&lt;div&gt;masa sorrentinos&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="4axXDym9NoDT7p6fsjPK-7" value="&lt;div&gt;Termina estirado&lt;br&gt;&lt;/div&gt;&lt;div&gt;masa sorrentinos&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="456.79" y="160" width="100.21" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4axXDym9NoDT7p6fsjPK-8" value="&lt;div&gt;Termina estirado&lt;br&gt;&lt;/div&gt;&lt;div&gt;masa canelones&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="4axXDym9NoDT7p6fsjPK-8" value="&lt;div&gt;Termina estirado&lt;br&gt;&lt;/div&gt;&lt;div&gt;masa canelones&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="456.79" y="440" width="100.21" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4axXDym9NoDT7p6fsjPK-9" value="&lt;div&gt;Masa sorrentinos&lt;/div&gt;&lt;div&gt;esperando corte&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="4axXDym9NoDT7p6fsjPK-9" value="&lt;div&gt;Masa sorrentinos&lt;/div&gt;&lt;div&gt;esperando corte&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="537" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4axXDym9NoDT7p6fsjPK-10" value="&lt;div&gt;Se efectúa corte&lt;br&gt;&lt;/div&gt;&lt;div&gt;masa canelones&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="4axXDym9NoDT7p6fsjPK-10" value="&lt;div&gt;Se efectúa corte&lt;br&gt;&lt;/div&gt;&lt;div&gt;masa canelones&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="637" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4axXDym9NoDT7p6fsjPK-12" value="&lt;div&gt;Masa canelon&lt;/div&gt;&lt;div&gt;esperando relleno&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="4axXDym9NoDT7p6fsjPK-12" value="&lt;div&gt;Masa canelon&lt;/div&gt;&lt;div&gt;esperando relleno&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="737" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4axXDym9NoDT7p6fsjPK-13" value="&lt;div&gt;Masa sorrentinos&lt;/div&gt;&lt;div&gt;esperando relleno&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="4axXDym9NoDT7p6fsjPK-13" value="&lt;div&gt;Masa sorrentinos&lt;/div&gt;&lt;div&gt;esperando relleno&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="737" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4axXDym9NoDT7p6fsjPK-14" value="&lt;div&gt;Masa canelon&lt;/div&gt;&lt;div&gt;pasa a relleno&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="4axXDym9NoDT7p6fsjPK-14" value="&lt;div&gt;Masa canelon&lt;/div&gt;&lt;div&gt;pasa a relleno&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="836.58" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4axXDym9NoDT7p6fsjPK-15" value="&lt;div&gt;Masa sorrentinos&lt;br&gt;&lt;/div&gt;&lt;div&gt;pasa a relleno&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="4axXDym9NoDT7p6fsjPK-15" value="&lt;div&gt;Masa sorrentinos&lt;br&gt;&lt;/div&gt;&lt;div&gt;pasa a relleno&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="836.58" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4axXDym9NoDT7p6fsjPK-16" value="&lt;div&gt;Finaliza relleno&lt;br&gt;&lt;/div&gt;&lt;div&gt;masa canelon&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="4axXDym9NoDT7p6fsjPK-16" value="&lt;div&gt;Finaliza relleno&lt;br&gt;&lt;/div&gt;&lt;div&gt;masa canelon&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1037" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4axXDym9NoDT7p6fsjPK-17" value="&lt;div&gt;Finaliza relleno&lt;/div&gt;&lt;div&gt;masa sorrentinos&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="4axXDym9NoDT7p6fsjPK-17" value="&lt;div&gt;Finaliza relleno&lt;/div&gt;&lt;div&gt;masa sorrentinos&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1037" y="160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>

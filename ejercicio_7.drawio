@@ -1,43 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T14:44:53.113Z" agent="5.0 (Windows)" etag="MI_SKJK9ldMgrqodPJeD" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T12:11:30.971Z" agent="5.0 (Windows)" etag="_5dhwzibcVt6mtgM_PL5" version="13.9.2" type="github">
   <diagram id="7Bv3F4OZBJlTS5smirqw" name="Page-1">
-    <mxGraphModel dx="2068" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="52HiHIj-RCwpPNn6qL2t-1" target="52HiHIj-RCwpPNn6qL2t-3">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="52HiHIj-RCwpPNn6qL2t-1" target="52HiHIj-RCwpPNn6qL2t-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="445" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="52HiHIj-RCwpPNn6qL2t-3" target="52HiHIj-RCwpPNn6qL2t-7">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="52HiHIj-RCwpPNn6qL2t-3" target="52HiHIj-RCwpPNn6qL2t-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="350" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52HiHIj-RCwpPNn6qL2t-3" target="52HiHIj-RCwpPNn6qL2t-8">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="52HiHIj-RCwpPNn6qL2t-3" target="52HiHIj-RCwpPNn6qL2t-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="570" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-3" value="&lt;div&gt;Esperando selección&lt;/div&gt;&lt;div&gt;de tipo de identificación&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-3" value="&lt;div&gt;Esperando selección&lt;/div&gt;&lt;div&gt;de tipo de identificación&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="390" y="120" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-6" value="&lt;div align=&quot;left&quot;&gt;Se seleccionó la opción &quot;nuevo votante&quot;/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;mostrar opciones de identificación&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-6" value="&lt;div align=&quot;left&quot;&gt;Se seleccionó la opción &quot;nuevo votante&quot;/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;mostrar opciones de identificación&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="50" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="52HiHIj-RCwpPNn6qL2t-7" target="52HiHIj-RCwpPNn6qL2t-11">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="52HiHIj-RCwpPNn6qL2t-7" target="52HiHIj-RCwpPNn6qL2t-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="350" y="415" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="52HiHIj-RCwpPNn6qL2t-7" target="52HiHIj-RCwpPNn6qL2t-24">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="52HiHIj-RCwpPNn6qL2t-7" target="52HiHIj-RCwpPNn6qL2t-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-80" y="275" />
@@ -45,7 +45,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="52HiHIj-RCwpPNn6qL2t-7" target="52HiHIj-RCwpPNn6qL2t-25">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="52HiHIj-RCwpPNn6qL2t-7" target="52HiHIj-RCwpPNn6qL2t-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-80" y="305" />
@@ -53,26 +53,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-7" value="&lt;div&gt;Esperando huella&lt;/div&gt;&lt;div&gt;en el escáner&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-7" value="&lt;div&gt;Esperando huella&lt;/div&gt;&lt;div&gt;en el escáner&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="280" y="260" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="52HiHIj-RCwpPNn6qL2t-8" target="52HiHIj-RCwpPNn6qL2t-10">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="52HiHIj-RCwpPNn6qL2t-8" target="52HiHIj-RCwpPNn6qL2t-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-8" value="Ingresando legajo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-8" value="Ingresando legajo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="500" y="200" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-9" value="&lt;div&gt;Esperando selección&lt;/div&gt;&lt;div&gt;de tipo de votación&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-9" value="&lt;div&gt;Esperando selección&lt;/div&gt;&lt;div&gt;de tipo de votación&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="390" y="400" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="52HiHIj-RCwpPNn6qL2t-10" target="52HiHIj-RCwpPNn6qL2t-11">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="52HiHIj-RCwpPNn6qL2t-10" target="52HiHIj-RCwpPNn6qL2t-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="570" y="415" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="52HiHIj-RCwpPNn6qL2t-10" target="52HiHIj-RCwpPNn6qL2t-41">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="52HiHIj-RCwpPNn6qL2t-10" target="52HiHIj-RCwpPNn6qL2t-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1000" y="330" as="targetPoint" />
             <Array as="points">
@@ -81,16 +81,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-10" value="Validando legajo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-10" value="Validando legajo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="500" y="320" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="52HiHIj-RCwpPNn6qL2t-11" target="52HiHIj-RCwpPNn6qL2t-12">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="52HiHIj-RCwpPNn6qL2t-11" target="52HiHIj-RCwpPNn6qL2t-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-11" value="&lt;div&gt;Esperando selección&lt;/div&gt;&lt;div&gt;de tipo de votación&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-11" value="&lt;div&gt;Esperando selección&lt;/div&gt;&lt;div&gt;de tipo de votación&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="390" y="400" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="52HiHIj-RCwpPNn6qL2t-12" target="52HiHIj-RCwpPNn6qL2t-13">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="52HiHIj-RCwpPNn6qL2t-12" target="52HiHIj-RCwpPNn6qL2t-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="425" y="610" />
@@ -98,7 +98,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="52HiHIj-RCwpPNn6qL2t-12" target="52HiHIj-RCwpPNn6qL2t-13">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="52HiHIj-RCwpPNn6qL2t-12" target="52HiHIj-RCwpPNn6qL2t-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="495" y="600" />
@@ -106,10 +106,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-12" value="&lt;div&gt;Esperando selección&lt;/div&gt;&lt;div&gt;de boleta&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-12" value="&lt;div&gt;Esperando selección&lt;/div&gt;&lt;div&gt;de boleta&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="390" y="520" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="52HiHIj-RCwpPNn6qL2t-13" target="52HiHIj-RCwpPNn6qL2t-50">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="52HiHIj-RCwpPNn6qL2t-13" target="52HiHIj-RCwpPNn6qL2t-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="494" y="720" />
@@ -117,37 +117,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-13" value="&lt;div&gt;Esperando&lt;/div&gt;&lt;div&gt;confirmación&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-13" value="&lt;div&gt;Esperando&lt;/div&gt;&lt;div&gt;confirmación&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="390" y="640" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="52HiHIj-RCwpPNn6qL2t-11" target="52HiHIj-RCwpPNn6qL2t-11">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="52HiHIj-RCwpPNn6qL2t-11" target="52HiHIj-RCwpPNn6qL2t-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-22" value="&lt;div align=&quot;right&quot;&gt;Se seleccionó la opción &quot;identificación por huella&quot;/&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;activar escáner de huella digital&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-22" value="&lt;div align=&quot;right&quot;&gt;Se seleccionó la opción &quot;identificación por huella&quot;/&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;activar escáner de huella digital&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="150" width="290" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-23" value="&lt;div align=&quot;right&quot;&gt;Se lee una huella digital [alumno identificado, alumno no votó aún]/&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;activar urna electrónica, mostrar opciones de votación, iniciar cronómetro&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-23" value="&lt;div align=&quot;right&quot;&gt;Se lee una huella digital [alumno identificado, alumno no votó aún]/&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;activar urna electrónica, mostrar opciones de votación, iniciar cronómetro&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-70" y="380" width="410" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-24" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-24" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="-140" y="250" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-25" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-25" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="-140" y="300" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-28" value="&lt;div align=&quot;left&quot;&gt;Se lee una huella digital [alumno identificado, alumno ya votó]/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;cancelar operación&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-28" value="&lt;div align=&quot;left&quot;&gt;Se lee una huella digital [alumno identificado, alumno ya votó]/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;cancelar operación&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-70" y="310" width="410" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-29" value="&lt;div align=&quot;left&quot;&gt;Se lee una huella digital [alumno no identificado]/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;cancelar operación&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-29" value="&lt;div align=&quot;left&quot;&gt;Se lee una huella digital [alumno no identificado]/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;cancelar operación&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-70" y="240" width="410" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-30" value="&lt;div&gt;Finalizó la validación [alumno identificado, alumno no votó aún]/&lt;/div&gt;&lt;div&gt;activar urna electrónica, mostrar opciones de votación, iniciar cronómetro&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-30" value="&lt;div&gt;Finalizó la validación [alumno identificado, alumno no votó aún]/&lt;/div&gt;&lt;div&gt;activar urna electrónica, mostrar opciones de votación, iniciar cronómetro&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="580" y="400" width="410" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-31" value="&lt;div&gt;Pasaron 30 segundos [no se hizo ninguna selección]/&lt;/div&gt;&lt;div&gt;mostrar mensaje de alerta, desactivar cronómetro&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="460" width="410" height="40" as="geometry" />
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-31" value="&lt;div&gt;Pasaron 30 segundos [cronómetro activado, no se hizo ninguna selección]/&lt;/div&gt;&lt;div&gt;mostrar mensaje de alerta, desactivar cronómetro&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="450" width="450" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="52HiHIj-RCwpPNn6qL2t-8" target="52HiHIj-RCwpPNn6qL2t-8">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="52HiHIj-RCwpPNn6qL2t-8" target="52HiHIj-RCwpPNn6qL2t-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="680" y="215" />
@@ -155,28 +155,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-33" value="&lt;div&gt;Se ingresó un dígito [contador de dígitos ingresados menor a 4]/&lt;/div&gt;&lt;div&gt;actualizar número ingresado, incrementar contador de dígitos ingresados&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-33" value="&lt;div&gt;Se ingresó un dígito [contador de dígitos ingresados menor a 4]/&lt;/div&gt;&lt;div&gt;actualizar número ingresado, incrementar contador de dígitos ingresados&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="690" y="210" width="410" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-34" value="&lt;div&gt;Se ingresó un dígito [contador de dígitos ingresados igual a 4]&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-34" value="&lt;div&gt;Se ingresó un dígito [contador de dígitos ingresados igual a 4]&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="580" y="260" width="410" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-36" value="&lt;div&gt;Se seleccionó la opción &quot;identificación por legajo&quot;/&lt;/div&gt;&lt;div&gt;habilitar teclado numérico, iniciar contador de dígitos ingresados&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-36" value="&lt;div&gt;Se seleccionó la opción &quot;identificación por legajo&quot;/&lt;/div&gt;&lt;div&gt;habilitar teclado numérico, iniciar contador de dígitos ingresados&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="580" y="140" width="410" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-37" value="&lt;div&gt;Finalizó la validación [alumno no identificado]/&lt;/div&gt;&lt;div&gt;cancelar operación&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-37" value="&lt;div&gt;Finalizó la validación [alumno no identificado]/&lt;/div&gt;&lt;div&gt;cancelar operación&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="300" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-38" value="&lt;div&gt;Finalizó la validación [alumno identificado, alumno ya votó]/&lt;/div&gt;&lt;div&gt;cancelar operación&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-38" value="&lt;div&gt;Finalizó la validación [alumno identificado, alumno ya votó]/&lt;/div&gt;&lt;div&gt;cancelar operación&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="360" width="330" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-41" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-41" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="1000" y="310" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-42" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-42" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="1000" y="360" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52HiHIj-RCwpPNn6qL2t-10" target="52HiHIj-RCwpPNn6qL2t-42">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="52HiHIj-RCwpPNn6qL2t-10" target="52HiHIj-RCwpPNn6qL2t-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1000" y="370" as="targetPoint" />
             <mxPoint x="640" y="360" as="sourcePoint" />
@@ -186,16 +186,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-44" value="&lt;div align=&quot;right&quot;&gt;Se seleccionó opción de votación/&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;registrar opción, mostrar pantalla de vtación&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-44" value="&lt;div align=&quot;right&quot;&gt;Se seleccionó opción de votación/&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;registrar opción, mostrar pantalla de vtación&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="195" y="470" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-46" value="&lt;div align=&quot;right&quot;&gt;Se seleccionó una boleta [opción &quot;boleta completa&quot;]/&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;ocultar listado, mostrar pantalla de confirmación&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-46" value="&lt;div align=&quot;right&quot;&gt;Se seleccionó una boleta [opción &quot;boleta completa&quot;]/&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;ocultar listado, mostrar pantalla de confirmación&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="590" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-47" value="&lt;div align=&quot;left&quot;&gt;Se seleccionó una boleta [opción &quot;cortar boleta&quot;, una boleta ya seleccionada]/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;ocultar listado, mostrar pantalla de confirmación&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-47" value="&lt;div align=&quot;left&quot;&gt;Se seleccionó una boleta [opción &quot;cortar boleta&quot;, una boleta ya seleccionada]/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;ocultar listado, mostrar pantalla de confirmación&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="590" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="52HiHIj-RCwpPNn6qL2t-12" target="52HiHIj-RCwpPNn6qL2t-12">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="52HiHIj-RCwpPNn6qL2t-12" target="52HiHIj-RCwpPNn6qL2t-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="535" />
@@ -203,19 +203,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-49" value="&lt;div align=&quot;left&quot;&gt;Se seleccionó una boleta [opción &quot;cortar boleta&quot;, ninguna boleta seleccionada]/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;registrar selección.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-49" value="&lt;div align=&quot;left&quot;&gt;Se seleccionó una boleta [opción &quot;cortar boleta&quot;, ninguna boleta seleccionada]/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;registrar selección.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="530" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-50" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-50" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="479" y="810" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-52" value="&lt;div align=&quot;left&quot;&gt;Se confirmó la votación/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;imprimir voto, mostrar mensaje de éxito, enviar mensaje a la mesa, finalizar sesión&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-52" value="&lt;div align=&quot;left&quot;&gt;Se confirmó la votación/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;imprimir voto, mostrar mensaje de éxito, enviar mensaje a la mesa, finalizar sesión&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="509" y="730" width="471" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-53" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-53" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="410" y="810" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="424" y="700" as="sourcePoint" />
             <mxPoint x="424" y="810" as="targetPoint" />
@@ -225,7 +225,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="52HiHIj-RCwpPNn6qL2t-55" value="&lt;div align=&quot;right&quot;&gt;Se canceló la votación/&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;mostrar mensaje de cancelación, finalizar sesión&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52HiHIj-RCwpPNn6qL2t-55" value="&lt;div align=&quot;right&quot;&gt;Se canceló la votación/&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;mostrar mensaje de cancelación, finalizar sesión&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="135" y="730" width="275" height="50" as="geometry" />
         </mxCell>
       </root>
